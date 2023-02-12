@@ -1,0 +1,13 @@
+.box {
+  min-height: 100vh !important;
+  background-color: rgb(43, 143, 55);
+}
+.cards {
+  max-width: 250px !important;
+  height: 250px !important;
+}
+
+.btn {
+  background-color: tomato !important;
+  color: azure !important;
+}
